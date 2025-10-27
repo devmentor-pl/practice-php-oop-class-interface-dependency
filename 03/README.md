@@ -4,7 +4,7 @@
 
 # `#03` PHP & OOP (1-4): Class, Interface, Dependency
 
-Utwórz klasę `Cart` wraz z metodami, które pozwolą dodawać, usuwać oraz wyszukiwać produkty, których interfejs utworzyłeś w poprzednim zadaniu - czas zaimplementować taką klasę i wykorzystać obiekty tworzone za jej pomocą.
+Utwórz klasę `Cart` wraz z metodami, które pozwolą dodawać, usuwać oraz wyszukiwać produkty, których interfejs oraz klasę abstrakcyjną utworzyłeś w poprzednim zadaniu - czas zaimplementować taką klasę i wykorzystać obiekty tworzone za jej pomocą.
 
 
 
