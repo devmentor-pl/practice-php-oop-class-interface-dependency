@@ -4,9 +4,9 @@
 
 # `#02` PHP & OOP (1-4): Class, Interface, Dependency
 
-Przygotuj interfejs, który powinien implemetnować każdy produkt w sklepie internetowym. 
+Przygotuj interfejs, który powinien implemetnować każdy produkt w sklepie internetowym np. dodawanie i usuwanie z koszyka. 
 
-Takim MVP moim zdaniem powinno być:
+Dodatkowo stwórz klasę abstrakcyjną, która będzie określać strukturę produktu. Takim MVP moim zdaniem powinno być:
 - nazwa
 - cena
 - stawka vat
